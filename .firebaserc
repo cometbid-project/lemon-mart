@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lemon-mart-acfdc"
+  },
+  "targets": {
+    "lemon-mart-acfdc": {
+      "hosting": {
+        "lemon-mart": [
+          "lemon-mart-acfdc"
+        ]
+      }
+    }
+  }
+}

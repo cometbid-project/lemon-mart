@@ -10,7 +10,7 @@
     "max-line-length": [false, 90],
     "quotemark": [true, "single", "avoid-escape"],
     "semicolon": [true, "never"],
-    "prettier": true,
+    "prettier": false,
     "array-type": false,
     "arrow-parens": false,
     "deprecation": {
